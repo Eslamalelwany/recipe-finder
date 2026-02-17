@@ -14,7 +14,7 @@ export default function SecSection() {
                 </Link>
             </div>
 
-            <img className="rounded-2xl mt-7 border-6 border-white  md:ml-auto md:mr-auto md:w-[700px] md:mt-20 md:h-[400px] lg:w-[800px] lg:h-[500px] xl:w-[800px] xl:h-[600px] lg:mt-9 xl:mt-9" src= "/Images/dose-juice-sTPy-oeA3h0-unsplash (1).jpg" alt="" />
+            <img className="rounded-2xl mt-7 border-6 border-white  md:ml-auto md:mr-auto md:w-[700px] md:mt-20 md:h-[400px] lg:w-[800px] lg:h-[500px] xl:w-[800px] xl:h-[600px] lg:mt-9 xl:mt-9" src= "/public/Images/dose-juice-sTPy-oeA3h0-unsplash (1).jpg" alt="" />
                 <h2 className=' text-[#2d4a3e] p-5.5 text-4xl font-bold lg:text-center xl:text-center mt-16'>What you'll get</h2>
             <div className='w-full flex flex-col lg:flex-row xl:flex-row justify-around lg:items-center xl:items-center h-[576px] lg:h-[231px] xl:h-[231px] p-5.5 md:p-8'>
                 {/* 1 */}
