@@ -1,6 +1,6 @@
 <div align="center">
 
-# Recipe Finder
+# 🍳 Recipe Finder
 
 A responsive recipe discovery app built with React — search, browse, and explore recipes with a clean, intuitive interface.
 
